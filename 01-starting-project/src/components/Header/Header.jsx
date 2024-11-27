@@ -1,5 +1,6 @@
 import { getRandomInt } from "../../helper-functions/helper-functions";
 import image from '../../assets/react-core-concepts.png';
+import './Header.css';
 
 const reactDesrpiption = ['Core', 'Fundamental', 'Essential'];
 
